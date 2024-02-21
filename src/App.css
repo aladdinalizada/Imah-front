@@ -1,0 +1,36 @@
+#root {
+  max-width: 1280px;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  padding: 0 99px;
+}
+@media (max-width: 1280px) {
+  .container {
+    padding: 0 90px;
+  }
+}
+@media (max-width: 1024px) {
+  .container {
+    padding: 0 70px;
+  }
+}
+@media (max-width: 992px) {
+  .container {
+    padding: 0 60px;
+  }
+}
+@media (max-width: 768px) {
+  .container {
+    padding: 0 50px;
+  }
+}
+@media (max-width: 480px) {
+  .container {
+    padding: 0 20px;
+  }
+}
