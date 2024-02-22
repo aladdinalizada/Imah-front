@@ -20,8 +20,8 @@ function App() {
         <title>Imah </title>
         <meta name="description" content="Imah is an architecture company" />
       </Helmet>
+      <Hero />
       <div className="container">
-        <Hero />
         <Partners />
         <HelloThere />
         <Services />
