@@ -11,10 +11,15 @@ import Projects from "./pages/Projects/Projects";
 import Testimonial from "./pages/Testimonial/Testimonial";
 import ContactUs from "./pages/Contact-us/ContactUs";
 import OurBlog from "./pages/Our-Blog/OurBlog";
+import { Helmet } from "react-helmet";
 function App() {
   return (
     <>
       <Header />
+      <Helmet>
+        <title>Imah </title>
+        <meta name="description" content="Imah is an architecture company" />
+      </Helmet>
       <div className="container">
         <Hero />
         <Partners />

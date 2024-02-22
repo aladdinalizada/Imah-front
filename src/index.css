@@ -5,3 +5,13 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+/* import fonts */
+@font-face {
+  font-family: "Raleway-Bold";
+  src: local("Raleway-Bold"), url("./fonts/Raleway-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Inconsolata_Condensed-Bold";
+  src: local("Inconsolata_Condensed-Bold"),
+    url("./fonts/Inconsolata_Condensed-Bold.ttf") format("truetype");
+}
