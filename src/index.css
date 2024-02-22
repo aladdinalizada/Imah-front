@@ -11,7 +11,22 @@
   src: local("Raleway-Bold"), url("./fonts/Raleway-Bold.ttf") format("truetype");
 }
 @font-face {
+  font-family: "Raleway-SemiBold";
+  src: local("Raleway-SemiBold"),
+    url("./fonts/Raleway-SemiBold.ttf") format("truetype");
+}
+@font-face {
   font-family: "Inconsolata_Condensed-Bold";
   src: local("Inconsolata_Condensed-Bold"),
     url("./fonts/Inconsolata_Condensed-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Inconsolata_Condensed-SemiBold";
+  src: local("Inconsolata_Condensed-SemiBold"),
+    url("./fonts/Inconsolata_Condensed-SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Inconsolata_Condensed-Medium";
+  src: local("Inconsolata_Condensed-Medium"),
+    url("./fonts/Inconsolata_Condensed-Medium.ttf") format("truetype");
 }
