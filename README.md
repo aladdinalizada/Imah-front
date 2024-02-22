@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# ![Imah Logo](https://github.com/aladdinalizada/Imah-front/blob/master/public/Logo.png)
+Crafting Spaces, Shaping Dreams. We are an innovative architecture firm dedicated to creating bespoke designs that harmonize function, beauty, and sustainability. With a passion for precision and a flair for creativity, we transform spaces into living works of art, tailored to reflect the unique visions and lifestyles of our clients. From concept to construction, Imah brings architectural excellence to every project, shaping environments that inspire and endure.
