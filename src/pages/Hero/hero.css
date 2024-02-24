@@ -41,6 +41,7 @@
 .heroContainer .heroText .heroBtn:hover {
   background-color: white;
   color: black;
+  border-radius: 10px;
 }
 .heroContainer .heroText .heroBtn:hover img {
   filter: invert(1);
