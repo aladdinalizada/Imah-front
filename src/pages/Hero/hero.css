@@ -74,6 +74,7 @@
 @media (max-width: 992px) {
   .heroContainer {
     padding-left: 20px;
+    gap: 30px;
   }
   .heroContainer .heroText h1 {
     font-size: 40px;
