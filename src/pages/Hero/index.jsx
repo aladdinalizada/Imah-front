@@ -1,7 +1,7 @@
 import React from "react";
 // import Images and icons
-import heroImg from "/assets/pages/hero/hero.png?url";
-import right from "/assets/icons/arrow-right.svg?url";
+import heroImg from "/assets/pages/hero/hero.png";
+import right from "/assets/icons/arrow-right.svg";
 // import Styles
 import "./hero.css";
 const Hero = () => {
