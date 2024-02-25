@@ -3,8 +3,8 @@ import "./App.css";
 import Header from "./layouts/Header/Header";
 import Footer from "./layouts/Footer/Footer";
 // Import Pages
-import Hero from "./pages/Hero/Hero";
-import Partners from "./pages/Partners/Partners";
+import Hero from "./pages/Hero";
+import Partners from "./pages/Partners";
 import HelloThere from "./pages/Hello-there/HelloThere";
 import Services from "./pages/Services/Services";
 import Projects from "./pages/Projects/Projects";
